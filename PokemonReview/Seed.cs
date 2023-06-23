@@ -1,7 +1,7 @@
 ﻿using PokemonReview.Data;
 using PokemonReview.Models;
 
-namespace PokemonReviewApp
+namespace PokemonReview
 {
     public class Seed
     {
